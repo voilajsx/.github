@@ -57,9 +57,9 @@ voila create my-app
 npm install @voilajsx/core @voilajsx/appkit
 ```
 
-## Our Philosophy
+## Our Philosophy & Founding Manifesto
 
-Learn about our [Philosophy and Vision](https://github.com/voilajsx/.github/blob/main/profile/PHILOSOPHY.md)
+Learn about our [Philosophy and Vision](https://github.com/voilajsx/.github/blob/main/PHILOSOPHY.md) and [Founding Manifesto](https://github.com/voilajsx/.github/blob/main/FOUNDING-MANIFESTO.md)
 
 ## Community and Contributions
 

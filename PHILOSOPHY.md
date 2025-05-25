@@ -1,9 +1,5 @@
 # VoilaJS Philosophy and Vision
 
-## Our Tagline
-
-**VoilaJS - Build Simply, Collaborate Freely, Innovate Together**
-
 ## Our Purpose
 
 VoilaJS is a global movement to simplify web and mobile app development. We are a community of developers—core team members and open-source contributors—united to create tools that empower everyone to build fast, modular, and delightful apps with ease.
