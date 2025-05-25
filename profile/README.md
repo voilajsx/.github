@@ -57,6 +57,10 @@ voila create my-app
 npm install @voilajsx/core @voilajsx/appkit
 ```
 
+## Our Philosophy
+
+Learn about our [Philosophy and Vision](https://github.com/voilajsx/.github/blob/main/PHILOSOPHY.md)
+
 ## Community and Contributions
 
 We welcome contributions from the community! Check out our [contribution guidelines](https://github.com/voilajsx/.github/blob/main/CONTRIBUTING.md) to get involved.
