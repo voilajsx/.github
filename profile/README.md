@@ -59,7 +59,7 @@ npm install @voilajsx/core @voilajsx/appkit
 
 ## Our Philosophy
 
-Learn about our [Philosophy and Vision](https://github.com/voilajsx/.github/blob/main/PHILOSOPHY.md)
+Learn about our [Philosophy and Vision](https://github.com/voilajsx/.github/blob/main/profile/PHILOSOPHY.md)
 
 ## Community and Contributions
 
